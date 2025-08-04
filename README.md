@@ -5,7 +5,7 @@ Absolutely, here's a poetic, emoji-rich, cleanly formatted **"About Me"** sectio
 
 ## 👋 About Me
 
-Hey there! I’m **Narachanikath** (aka Rocky) – a passionate **AI Engineer** 🤖 who lives and breathes in the realm of **Generative AI**, **Large Language Models (LLMs)**, and futuristic multi-agent systems 🚀.
+Hey there! I’m **Raghavendra**  – a passionate **AI Engineer(generative AI cum Agentic AI)** 🤖 who lives and breathes in the realm of **Generative AI**, **Large Language Models (LLMs)**, and futuristic **multi-agent systems**.
 
 💡 I blend traditional wisdom with cutting-edge tech to build solutions that **solve real problems**, not just impress on paper.
 
